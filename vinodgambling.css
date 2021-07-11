@@ -1,0 +1,35 @@
+body{
+  background: url(gambling.jpg);
+  color: white;
+  text-align: center;
+  border: 40px solid yellow;
+  border-top: 0px;
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+p{
+  padding-left:15%;
+  padding-right: 15%;
+  padding-top: 3%;
+}
+form{
+  font-size: 1.1em;
+  margin: 20px;
+}
+#submit{
+  background: green;
+  color: white;
+  height: 60px;
+  width: 110px;
+  margin-top: 10px;
+  font-size: 1.5em;
+  border-radius: 50px;
+}
+#submit:hover{
+  border: 1px solid blue;
+}
+html{
+  height: 100%;
+}
